@@ -1,6 +1,4 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Beginner’s Guide to Oxwall Plugin Development
+description: Oxwall Plugin Crash Course - Create a simple plugin to greet logged in users.
 show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
